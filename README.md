@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![WangZhuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangZhuo2015?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangZhuo2015?hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+[![WangZhuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangZhuo2015&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangZhuo2015&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WangZhuo2015/WangZhuo2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
